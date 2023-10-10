@@ -1,0 +1,22 @@
+body{
+    background-image: url(photo.jpg);
+    background-attachment:fixed;
+}
+#n{
+    margin:0 300px;
+    padding:0 50px;
+    
+}
+.green{
+    color: white;
+    padding: 20px;
+}
+div div:not(.green){
+    background-color: white;
+    border: dashed 2px black;
+    margin: 20px;
+    padding:20px ;
+}
+.blue{
+    color:blueviolet;
+}
